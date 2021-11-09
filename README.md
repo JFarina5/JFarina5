@@ -1,12 +1,15 @@
 ### Hi there 👋
 
+
+
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jfarina5&count_private=true&show_icons=true&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jfarina5&count_private=true&hide=contribs,issues&show_icons=true&theme=dracula&include_all_commits=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfarina5&layout=compact&theme=dracula" />
 </a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfarina5)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **JFarina5/JFarina5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
