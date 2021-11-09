@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfarina5&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfarina5&layout=compact&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jfarina5&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jfarina5&count_private=true&theme=dracula&hide=contribs,issues" />
 </a>
 
 
